@@ -1,0 +1,5 @@
+com\company\BotConfig.class
+com\company\MyBot.class
+com\company\MyBot$Product.class
+com\company\MyBot$CartItem.class
+com\company\AiMarketAnalyzerApplication.class
